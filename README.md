@@ -13,6 +13,17 @@ Check out my blogs:
 ### 
  [<img src="./images/Blog1.png" width="150"> ](https://medium.com/@atharvapatkar/apache-airflow-with-ec2-amazon-linux-67b3692843db) [<img src="./images/infraFace.png" width="150"> ](https://medium.com/@atharvapatkar/infrastructure-automation-with-face-recognizer-ddf0bad53a76)  [<img src="./images/Query.png" width="150">](https://medium.com/@atharvapatkar/unlock-the-power-of-ai-to-transform-your-snowflake-database-queries-into-simple-human-readable-01458db4d79f)
  
+## Skills and Tech
+🔧 Languages: Python 3, C, C++
+🛠 DevOps Tools: Terraform, Docker, Kubernetes, Ansible, Jenkins, Git and GitHub, Prometheus, Grafana
+🔢 Data Science & AI: Machine Learning, Deep Learning, Computer Vision, NLP, Prompt Design & Fine-tuning, LoRA, QLoRA, Pytorch, TensorFlow, Generative AI, RAG
+🌐 Web Development: HTML, CSS, JavaScript, Flask, FastAPI, Bootstrap
+☁️ Cloud Platforms: AWS
+🗄 Databases: MySQL,MongoDB,VectorDB
+💻 Operating Systems: Linux
+
+
+
 
 ## 📫 Get in Touch
 - [LinkedIn](http://www.linkedin.com/in/atharva--patkar)
