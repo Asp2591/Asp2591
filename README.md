@@ -15,12 +15,12 @@ Check out my blogs:
  
 ## Skills and Tech
  <h4> 🔧 Languages: </h4>Python 3, C, C++ 
-<h4>🛠 DevOps Tools: Terraform, Docker, Kubernetes, Ansible, Jenkins, Git and GitHub, Prometheus, Grafana
-<h4>🔢 Data Science & AI: Machine Learning, Deep Learning, Computer Vision, NLP, Prompt Design & Fine-tuning, LoRA, QLoRA, Pytorch, TensorFlow, Generative AI, RAG
-<h4>🌐 Web Development: HTML, CSS, JavaScript, Flask, FastAPI, Bootstrap
-<h4>☁️ Cloud Platforms: AWS
-<h4>🗄 Databases: MySQL,MongoDB,VectorDB
-<h4>💻 Operating Systems: Linux
+<h4>🛠 DevOps Tools:</h4> Terraform, Docker, Kubernetes, Ansible, Jenkins, Git and GitHub, Prometheus, Grafana
+<h4>🔢 Data Science & AI:</h4> Machine Learning, Deep Learning, Computer Vision, NLP, Prompt Design & Fine-tuning, LoRA, QLoRA, Pytorch, TensorFlow, Generative AI, RAG
+<h4>🌐 Web Development:</h4> HTML, CSS, JavaScript, Flask, FastAPI, Bootstrap
+<h4>☁️ Cloud Platforms:</h4> AWS
+<h4>🗄 Databases:</h4> MySQL,MongoDB,VectorDB
+<h4>💻 Operating Systems:</h4> Linux
 
 
 
