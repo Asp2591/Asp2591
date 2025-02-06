@@ -6,7 +6,7 @@
 - With a strong foundation in cloud platforms, CI/CD tools, and infrastructure as code, I specialize in deploying and monitoring robust ML solutions that deliver measurable impact.
 - I thrive on tackling challenges in model versioning, deployment, and monitoring, all while optimizing workflows for speed, reliability, and scalability. I’m committed to continuous learning and leveraging cutting-edge technologies to bridge the gap between data science and operational excellence.
 
-## -------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------
 📝 Blogs
 
 Check out my blogs:
@@ -14,7 +14,7 @@ Check out my blogs:
 ### 
  [<img src="./images/Blog1.png" width="150"> ](https://medium.com/@atharvapatkar/apache-airflow-with-ec2-amazon-linux-67b3692843db) [<img src="./images/infraFace.png" width="150"> ](https://medium.com/@atharvapatkar/infrastructure-automation-with-face-recognizer-ddf0bad53a76)  [<img src="./images/Query.png" width="150">](https://medium.com/@atharvapatkar/unlock-the-power-of-ai-to-transform-your-snowflake-database-queries-into-simple-human-readable-01458db4d79f)
 
-## -------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------
 
 ## Skills and Tech
  <h4> 🔧 Languages: </h4>Python 3, C, C++ 
@@ -26,7 +26,7 @@ Check out my blogs:
 <h4>💻 Operating Systems:</h4> Linux
 
 
-## -------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------
 
 
 ## 📫 Get in Touch
