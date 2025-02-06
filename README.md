@@ -10,7 +10,7 @@
 
 ### 🔹 [![LoGo Gen-Rator](./images/logomaker.png)](https://github.com/Asp2591/LogoMakerLLM)
 
-### 🔹 [QueryCraft](https://github.com/Asp2591/Prompt-to-SQL-to-HumanReadable-with-snowflake)
+### 🔹 [![QueryCraft](./images/Query.png)](https://github.com/Asp2591/Prompt-to-SQL-to-HumanReadable-with-snowflake)
 
 
 ### 🔹 [Infrastructure_automation_with_faceRecognizer](https://github.com/Asp2591/Infrastructure_automation_with_faceRecognizer)
