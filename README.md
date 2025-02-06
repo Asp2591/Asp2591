@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to My GitHub Profile 
-[Profile count] :https://komarev.com/ghpvc/?username=Asp2591
+![Profile count] (https://komarev.com/ghpvc/?username=Asp2591)
 
 ## 🚀 About Me
 - I am an enthusiastic and detail-oriented MLOps Engineer with a passion for building scalable, efficient, and automated machine learning pipelines. My expertise lies at the intersection of software engineering, DevOps, and machine learning, where I ensure seamless integration of models into production environments.
