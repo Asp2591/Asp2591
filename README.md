@@ -7,7 +7,7 @@
 
 
 ## 🛠️ Projects
-### 🔹 [LoGo Gen-Rator](./images/logomaker.png)(https://github.com/Asp2591/LogoMakerLLM)
+### 🔹 [!LoGo Gen-Rator(./images/logomaker.png)](https://github.com/Asp2591/LogoMakerLLM)
 
 
 ### 🔹 [QueryCraft](https://github.com/Asp2591/Prompt-to-SQL-to-HumanReadable-with-snowflake)
