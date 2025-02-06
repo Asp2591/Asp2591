@@ -16,7 +16,7 @@ Check out my blogs:
 
 ## 📫 Get in Touch
 - [LinkedIn](http://www.linkedin.com/in/atharva--patkar)
-- Email: (#patkaratharva75@gmail.com)
+- Email: (patkaratharva75@gmail.com)
 
 Feel free to explore my projects and contribute! 🚀
 
