@@ -11,11 +11,8 @@
 Check out my blogs:
 
 ### 
-📌 [<img src="./images/Blog1.png" width="150"> Recent Article 1](https://medium.com/@atharvapatkar/apache-airflow-with-ec2-amazon-linux-67b3692843db
-)  
-📌 [<img src="./images/infraFace.png" width="150"> Recent Article 2](https://medium.com/@atharvapatkar/infrastructure-automation-with-face-recognizer-ddf0bad53a76)  [<img src="./images/Query.png" width="150"> Recent Article 3](https://medium.com/@atharvapatkar/unlock-the-power-of-ai-to-transform-your-snowflake-database-queries-into-simple-human-readable-01458db4d79f)
-
-📌   
+ [<img src="./images/Blog1.png" width="150"> Apache Airflow](https://medium.com/@atharvapatkar/apache-airflow-with-ec2-amazon-linux-67b3692843db) [<img src="./images/infraFace.png" width="150"> Infrastruction Automation with face](https://medium.com/@atharvapatkar/infrastructure-automation-with-face-recognizer-ddf0bad53a76)  [<img src="./images/Query.png" width="150">QueryCraft](https://medium.com/@atharvapatkar/unlock-the-power-of-ai-to-transform-your-snowflake-database-queries-into-simple-human-readable-01458db4d79f)
+ 
 
 ## 📫 Get in Touch
 - LinkedIn: [LinkedIn](# http://www.linkedin.com/in/atharva--patkar)
